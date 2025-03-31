@@ -9,7 +9,7 @@
 	}
 }
 
-@media 	(max-width: 720px) {
+@media (max-width: 720px) {
 	.container {
 		width: 500px;
 	}
@@ -17,9 +17,6 @@
 
 @media (max-width: 540px) {
 	.container {
-		width: auto;
-		display: flex;
-		margin: 0 40px;
-		flex-direction: column;
+		width: 90vw;
 	}
 }
